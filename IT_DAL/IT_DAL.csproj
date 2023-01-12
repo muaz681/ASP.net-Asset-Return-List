@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A44984F5-FC76-4BE0-BFF5-66857E851C66}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IT_DAL</RootNamespace>
+    <AssemblyName>IT_DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBInfoDAL\DBAssetTDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBAssetTDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBInfoDAL\DBInfoTDS.cs">
+      <DependentUpon>DBInfoTDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBInfoDAL\DBInfoTDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBInfoTDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IPMailADTds.cs">
+      <DependentUpon>IPMailADTds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IPMailADTds1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IPMailADTds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DBInfoDAL\DBAssetTDS.xsc">
+      <DependentUpon>DBAssetTDS.xsd</DependentUpon>
+    </None>
+    <None Include="DBInfoDAL\DBAssetTDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBAssetTDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DBInfoDAL\DBAssetTDS.xss">
+      <DependentUpon>DBAssetTDS.xsd</DependentUpon>
+    </None>
+    <None Include="DBInfoDAL\DBInfoTDS.xsc">
+      <DependentUpon>DBInfoTDS.xsd</DependentUpon>
+    </None>
+    <None Include="DBInfoDAL\DBInfoTDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBInfoTDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DBInfoDAL\DBInfoTDS.xss">
+      <DependentUpon>DBInfoTDS.xsd</DependentUpon>
+    </None>
+    <None Include="IPMailADTds.xsc">
+      <DependentUpon>IPMailADTds.xsd</DependentUpon>
+    </None>
+    <None Include="IPMailADTds.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IPMailADTds1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IPMailADTds.xss">
+      <DependentUpon>IPMailADTds.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

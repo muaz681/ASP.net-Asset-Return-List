@@ -1,0 +1,27 @@
+C:\DIP\TFS\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll.config
+C:\DIP\TFS\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll
+C:\DIP\TFS\AAL_ERP\IT_DAL\bin\Release\IT_DAL.pdb
+C:\DIP\TFS\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.CoreCompileInputs.cache
+C:\DIP\TFS\AAL_ERP\IT_DAL\obj\Release\IT_DAL.dll
+C:\DIP\TFS\AAL_ERP\IT_DAL\obj\Release\IT_DAL.pdb
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll.config
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\bin\Release\IT_DAL.pdb
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csprojAssemblyReference.cache
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.CoreCompileInputs.cache
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\obj\Release\IT_DAL.dll
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_DAL\obj\Release\IT_DAL.pdb
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll.config
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\bin\Release\IT_DAL.pdb
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.AssemblyReference.cache
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.CoreCompileInputs.cache
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\obj\Release\IT_DAL.dll
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_DAL\obj\Release\IT_DAL.pdb
+D:\TFS Repos\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll.config
+D:\TFS Repos\AAL_ERP\IT_DAL\bin\Release\IT_DAL.dll
+D:\TFS Repos\AAL_ERP\IT_DAL\bin\Release\IT_DAL.pdb
+D:\TFS Repos\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.AssemblyReference.cache
+D:\TFS Repos\AAL_ERP\IT_DAL\obj\Release\IT_DAL.csproj.CoreCompileInputs.cache
+D:\TFS Repos\AAL_ERP\IT_DAL\obj\Release\IT_DAL.dll
+D:\TFS Repos\AAL_ERP\IT_DAL\obj\Release\IT_DAL.pdb

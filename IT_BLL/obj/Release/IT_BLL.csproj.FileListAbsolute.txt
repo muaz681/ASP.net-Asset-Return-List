@@ -1,0 +1,60 @@
+C:\DIP\TFS\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+C:\DIP\TFS\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+C:\DIP\TFS\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+C:\DIP\TFS\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+C:\DIP\TFS\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+C:\DIP\TFS\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csprojAssemblyReference.cache
+C:\DIP\TFS\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+C:\DIP\TFS\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+C:\DIP\TFS\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+C:\DIP\TFS\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csprojAssemblyReference.cache
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+D:\AAL Solutions\AAL_ERP v2\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.AssemblyReference.cache
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+D:\Asset Solutions 2022\ERP Without Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.AssemblyReference.cache
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+D:\Asset Solutions 2022\ERP With Password Change\AAL_ERP 2022\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
+D:\Git Repos\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+D:\Git Repos\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+D:\Git Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+D:\Git Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+D:\Git Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+D:\Git Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.AssemblyReference.cache
+D:\Git Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+D:\Git Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+D:\Git Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+D:\Git Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
+D:\TFS Repos\AAL_ERP\IT_BLL\bin\Release\IT_BLL.dll
+D:\TFS Repos\AAL_ERP\IT_BLL\bin\Release\IT_BLL.pdb
+D:\TFS Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll
+D:\TFS Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.pdb
+D:\TFS Repos\AAL_ERP\IT_BLL\bin\Release\IT_DAL.dll.config
+D:\TFS Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.AssemblyReference.cache
+D:\TFS Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CoreCompileInputs.cache
+D:\TFS Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.csproj.CopyComplete
+D:\TFS Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.dll
+D:\TFS Repos\AAL_ERP\IT_BLL\obj\Release\IT_BLL.pdb
